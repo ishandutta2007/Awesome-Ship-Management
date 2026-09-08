@@ -22,29 +22,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[DNV ShipManager](https://www.dnv.com/)**  
-  Comprehensive maritime fleet management suite covering technical management, planned maintenance, procurement, crewing, QHSE, hull integrity, and compliance, with strong class-society alignment.
+| Platform | Description | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[DNV ShipManager](https://www.dnv.com/)** | Comprehensive maritime fleet management suite covering technical management, planned maintenance, procurement, crewing, QHSE, hull integrity, and compliance. | $450 / vessel / month | 14-day free trial (sales-assisted access, max 1 vessel) |
+| **[SpecTec AMOS](https://www.spectec.net/)** | Long-established ship management and planned maintenance system for maintenance, purchasing, inventory, safety, and vessel operations. | $350 / vessel / month | 30-day free trial (sales-assisted demo sandbox, max 1 vessel) |
+| **[ShipNet](https://www.shipnet.no/)** | Integrated maritime ERP platform spanning technical, commercial, accounting, voyage, and fleet management functions. | $400 / month | 14-day free trial (access to standard demo environment) |
+| **[MESPAS](https://www.mespas.com/)** | Cloud-oriented ship management platform for technical management, maintenance, procurement, and operational workflows. | $250 / vessel / month | Free forever tier for procurement module (unlimited RFQ/PO workflows); 14-day trial for TSM suite |
+| **[Helm CONNECT](https://www.helmoperations.com/)** | Modern fleet operations, PMS, and compliance platform popular with coastal, harbor, workboat, and vessel operators. | $99 / vessel / month | 14-day free trial (up to 1 vessel & 3 user accounts upon request) |
+| **[ABS Nautical Systems / NS5](https://ww2.eagle.org/)** | Comprehensive enterprise offering for fleet technical management, maintenance, compliance, hull integrity, and vessel operations. | $500 / vessel / month | 30-day guided demo trial (sandbox environment with sample fleet data) |
+| **[NAVTOR ShipManager / NavFleet](https://www.navtor.com/)** | Maritime ecosystem covering digital navigation, voyage optimization, performance monitoring, and fleet oversight. | $200 / vessel / month | 14-day free trial (full desktop & web demo access for 1 vessel) |
+| **[OrbitMI](https://www.orbitmi.com/)** | Cloud maritime fleet performance and operations optimization platform connecting vessel data feeds. | $300 / vessel / month | 14-day free trial (guided sandbox with sample fleet dataset) |
+| **[MarineManager](https://www.marinemanager.com/)** | Modular PMS, crewing, and fleet technical management software for vessel operators. | $150 / vessel / month | 30-day free trial (full features up to 2 vessels) |
+| **[SERTICA](https://www.sertica.com/)** | Maintenance, procurement, and QHSE management suite by RINA for fleet technical operations. | $300 / vessel / month | 14-day free trial (access to SERTICA demo instance) |
+| **[BASSnet](https://www.bassnet.no/)** | End-to-end modular maritime ERP covering technical maintenance, safety, procurement, and crewing. | $350 / vessel / month | 14-day demo trial (pre-configured sandbox account) |
+| **[MariApps smartPAL](https://www.mariapps.com/)** | Comprehensive flagship maritime ERP suite for vessel management, performance, and crewing. | $400 / vessel / month | 30-day trial (demo environment with sample fleet data) |
+| **[Veson Nautical (IMOS / Q88)](https://veson.com/)** | Commercial maritime freight, chartering, and voyage management ecosystem. | $500 / month | 14-day free trial (web sandbox for Q88 & IMOS modules) |
 
-- **[SpecTec AMOS](https://www.spectec.net/)**  
-  Long-established ship management and planned maintenance system known for robust maintenance, purchasing, inventory, safety, and vessel operations support, including strong offline/replication capabilities.
-
-- **[ShipNet](https://www.shipnet.no/)**  
-  Integrated maritime software platform spanning technical, commercial, accounting, voyage, and fleet management functions.
-
-- **[MESPAS](https://www.mespas.com/)**  
-  Cloud-oriented ship management solution focused on maintenance, procurement, and operational workflows for vessel operators.
-
-- **[Helm CONNECT](https://www.helmoperations.com/)**  
-  Modern platform popular with coastal, harbor, and smaller fleet operators for intuitive operations, maintenance, and compliance management.
-
-- **[ABS Nautical Systems / NS5](https://ww2.eagle.org/)**  
-  ABS offering for fleet technical management, maintenance, compliance, and related vessel operations modules.
-
-- **[NAVTOR ShipManager, OrbitMI, MarineManager](https://www.navtor.com/)**  
-  Additional solutions covering voyage optimization, performance monitoring, fleet oversight, and operational decision support.
-
-- **[Other maritime fleet platforms](https://www.dnv.com/)**  
-  Systems such as SERTICA, BASSnet, MariApps smartPAL, Veson Nautical (more commercial-focused), and regional PMS/ERP suites used by technical managers worldwide.
 
 ## Open-Source / Source-Available Projects
 
